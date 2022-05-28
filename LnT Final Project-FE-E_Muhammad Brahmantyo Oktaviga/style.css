@@ -1,0 +1,96 @@
+#judulPudding {
+    font-size: 30px;
+    color: rgb(177, 82, 255);
+}
+
+body {
+    background: rgb(131, 58, 180);
+    background: -moz-linear-gradient(180deg, rgba(131, 58, 180, 1) 0%, rgba(213, 21, 64, 0.7455357142857143) 100%, rgba(204, 69, 252, 1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(131, 58, 180, 1) 0%, rgba(213, 21, 64, 0.7455357142857143) 100%, rgba(204, 69, 252, 1) 100%);
+    background: linear-gradient(180deg, rgba(131, 58, 180, 1) 0%, rgba(213, 21, 64, 0.7455357142857143) 100%, rgba(204, 69, 252, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#833ab4", endColorstr="#cc45fc", GradientType=1);
+}
+
+#judulPudding {
+    text-shadow: 7px 2px 5px #00055b;
+}
+
+
+#navbarBackground {
+    background-color: transparent;
+}
+
+#NavMenu {
+    margin-left: auto;
+}
+
+
+#navText {
+    /* background-color: red; */
+    font-size: 20px;
+    color: antiquewhite;
+    padding: 0 30px;
+}
+
+#navText:hover {
+    color: rgb(85, 0, 155);
+}
+
+#cardPos {
+    margin-top: 80px;
+}
+
+#cardTitle {
+    font-size: 50px;
+}
+
+#pudding1_Judul {
+    margin-top: 150px;
+    font-size: 60px;
+}
+
+#puddingFest_penjelasan {
+    width: 60%;
+    font-size: 27px;
+}
+
+#puddingFest_penjelasan2 {
+    width: 60%;
+    font-size: 25px;
+}
+
+#rangkaian-acara-base {
+    margin-top: 200px;
+}
+
+#puddingFest-gede {
+    text-shadow: 10px 2px 5px #00055b;
+}
+
+#puddingFest-kecil {
+    text-shadow: 4px 2px 2px #0000aa;
+}
+
+#formRegis {
+    padding-top: 90px;
+}
+
+#cardImg {
+    width: 20%;
+    height: 20%;
+}
+
+#container-timeline {
+    background-color: rgb(226, 226, 226);
+    width: 40%;
+}
+
+#gambar1 {
+    width: 75%;
+    margin: auto;
+    height: 30%;
+}
+
+.remove-warning {
+    display: none;
+}
